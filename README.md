@@ -7,12 +7,12 @@ I will post my solutions for [30 Days of Code by HackerRank](https://www.hackerr
 ### Checklist
 I started this "challenge" on Friday, April 9, 2021. 
 
-- [X] Hello, World.
-- [ ] Data Types
-- [ ] Operators
-- [ ] Intro to Conditional Statements
-- [ ] Class vs. Instance
-- [ ] Loops
+- [x] Hello, World.
+- [x] Data Types
+- [x] Operators
+- [x] Intro to Conditional Statements
+- [x] Class vs. Instance
+- [x] Loops
 - [ ] Let's Review
 - [ ] Arrays
 - [ ] Dictionaries and Maps
